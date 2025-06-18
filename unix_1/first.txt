@@ -1,0 +1,70 @@
+user@DAEDMAC50 unix_1 % ls
+user@DAEDMAC50 unix_1 % touch first.txt
+user@DAEDMAC50 unix_1 % touch second.txt
+user@DAEDMAC50 unix_1 % cat first.txt
+oijsdfojsdf[oj%                                        user@DAEDMAC50 unix_1 % cat second.txt
+sodijfdsoifj%                                          user@DAEDMAC50 unix_1 % cat first.txt second.txt 
+oijsdfojsdf[ojsodijfdsoifj%                            user@DAEDMAC50 unix_1 % nano first.txt 
+user@DAEDMAC50 unix_1 % nano second.txt 
+user@DAEDMAC50 unix_1 % history -60
+  985  git commit -m "Added my empathy map"
+  986  git push --all
+  987  LS
+  988  BREW UPDATE
+  989  PWD
+  990  ls
+  991  cd Desktop
+  992  say "Kay"
+  993  say "Kay"
+  994  cd /bin
+  995  ls
+  996  rm -Rf ls
+  997  ls
+  998  ls -la
+  999  ls
+ 1000  wow
+ 1001  clear
+ 1002  wow
+ 1003  kfdoisjdfojf
+ 1004  pwd
+ 1005  ls
+ 1006  cd Desktop
+ 1007  ls
+ 1008  cd "KayPinky's 3 Week DAE Project"
+ 1009  ls
+ 1010  git add .
+ 1011  git commit -m "Scanned a website for vulnerabilites with nmap using parrot os. Vunerability Documentation included"
+ 1012  git push --all
+ 1013  history
+ 1014  history -40
+ 1015  history -60
+ 1016  say "Come on now"
+ 1017  say "Stop playing with the Pinky"
+ 1018  ls -la
+ 1019  cd Desktop
+ 1020  ls
+ 1021  cd "KayPinky's 3 Week DAE Project"
+ 1022  ls
+ 1023  cd cyber_threats_and_vulnerabilities_1
+ 1024  ls
+ 1025  ls -la
+ 1026  mkdir "test"
+ 1027  rm -Rf "test"
+ 1028  mkdir "test"
+ 1029  ls -la
+ 1030  man ls
+ 1031  cd ..
+ 1032  ls
+ 1033  mkdir unix_1
+ 1034  ls
+ 1035  cd unx
+ 1036  cd unix_1
+ 1037  ls
+ 1038  touch first.txt
+ 1039  touch second.txt
+ 1040  cat first.txt
+ 1041  cat second.txt
+ 1042  cat first.txt second.txt
+ 1043  nano first.txt
+ 1044  nano second.txt
+user@DAEDMAC50 unix_1 % 
