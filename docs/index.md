@@ -1,6 +1,6 @@
 ---
 layout: default
-title: [Your Name] Portfolio
+title: Kay's Portfolio
 ---
 
 # Hi, I'm [Your Name] 👋
