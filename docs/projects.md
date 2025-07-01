@@ -5,7 +5,7 @@ title: Projects
 
 # 🚀 My Projects
 
-## Project 1: Cool App
+## Project 1: Cool App.
 
 -   **Description:** A tool that solves X problem.
 -   **Technologies:** Python, Flask, React.
@@ -15,3 +15,5 @@ title: Projects
 
 -   **Description:** A fun project that does Y.
 -   [Live Demo](https://yourdemo.example.com)
+
+[📄 View My Resume](resume.pdf)
