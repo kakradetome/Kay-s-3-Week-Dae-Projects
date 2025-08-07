@@ -1,0 +1,18 @@
+theme: minima
+
+header_pages:
+    - index.md
+    - projects.md
+
+author:
+    name: Kay
+    email: kay@mydae.org
+
+minima:
+    social_links:
+        - title: Jekyll repository at GitHub
+          icon: github
+          url: "https://github.com/jekyll/jekyll"
+        - title: Jekyll at X (formerly Twitter)
+          icon: x-twitter
+          url: "https://x.com/jekyllrb"
