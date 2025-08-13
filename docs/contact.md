@@ -1,10 +1,11 @@
 ---
+layout: default
 title: "Contact"
-layout: page
 permalink: /contact/
 ---
 
 {% include brand.html %}
+{% include nav.html %}
 
 - Email: [you@example.com](mailto:you@example.com)  
 - LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  

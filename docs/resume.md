@@ -1,13 +1,14 @@
 ---
+layout: default
 title: "Resume"
-layout: page
 permalink: /resume/
 ---
 
 {% include brand.html %}
+{% include nav.html %}
 
 ## Summary
-Security-minded backend developer who ships reliable services and automation.
+Security‑minded backend developer who ships reliable services and automation.
 
 ## Skills
 - **Languages:** Python, Go, TypeScript
