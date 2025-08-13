@@ -11,7 +11,7 @@ permalink: /projects/
 **Solution:** Client-side encryption (KMS), RBAC with signed URLs, audit logging.  
 **Outcome:** 0 critical misconfigurations in 90 days; automated compliance export.
 
-<img src="/assets/img/dae-logo.png" alt="Project diagram placeholder" width="640" style="border-radius:12px;margin:8px 0;"/>
+<img src="{{ '/assets/img/dae-logo.png' | relative_url }}" alt="Project diagram placeholder" width="640" style="border-radius:12px;margin:8px 0;"/>
 
 **Tech:** Go, AWS S3 + KMS, Terraform, OPA  
 **Links:** [Source](https://github.com/YOUR-USERNAME/secure-file-storage) · [Demo](#)

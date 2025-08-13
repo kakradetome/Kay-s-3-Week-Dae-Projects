@@ -6,6 +6,9 @@ baseurl: "/YOUR-REPO"                        # "" if this is your root username.
 # Use Minima (built-in, stable)
 theme: minima
 
+# Ensure /about/ style links work
+permalink: pretty
+
 # Top navigation for Minima
 header_pages:
   - index.md
@@ -18,9 +21,6 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-# (Optional) repo hint
-# repository: YOUR-USERNAME/YOUR-REPO
 
 # Keep build clean
 exclude:
