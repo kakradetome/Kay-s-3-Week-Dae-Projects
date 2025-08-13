@@ -3,21 +3,13 @@ description: "Portfolio showcasing secure backend systems, automation, and case 
 url: "https://kakradetome.github.io"
 baseurl: "/Kay-s-3-Week-Dae-Projects"   # must match repo name exactly
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-tactile
 permalink: pretty
 
 # GitHub Pages-safe plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
-
-# Optional: Minima-style header_pages is harmless; Slate ignores it
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - resume.md
-  - contact.md
 
 exclude:
   - README.md
