@@ -1,18 +1,29 @@
+title: "YOUR NAME — Cybersecurity & Backend Developer"
+description: "Portfolio showcasing secure backend systems, automation, and case studies."
+url: "https://YOUR-USERNAME.github.io"      # set to your username site
+baseurl: "/YOUR-REPO"                        # "" if this is your root username.github.io repo
+
+# Use Minima (built-in, stable)
 theme: minima
 
+# Top navigation for Minima
 header_pages:
-    - index.md
-    - projects.md
+  - index.md
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
 
-author:
-    name: Kay
-    email: kay@mydae.org
+# Optional, safe plugins for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-minima:
-    social_links:
-        - title: Jekyll repository at GitHub
-          icon: github
-          url: "https://github.com/jekyll/jekyll"
-        - title: Jekyll at X (formerly Twitter)
-          icon: x-twitter
-          url: "https://x.com/jekyllrb"
+# (Optional) repo hint
+# repository: YOUR-USERNAME/YOUR-REPO
+
+# Keep build clean
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

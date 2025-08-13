@@ -1,18 +1,23 @@
 ---
-layout: default
-title: Kay's Portfolio
+title: "Home"
+layout: page
 ---
 
-# Hi, I'm [Your Name] 👋
+{% include brand.html %}
 
-I'm a software engineering student passionate about web development, data science, and building impactful software.
+<img src="/assets/img/headshot.png" alt="Headshot of YOUR NAME" width="200" style="border-radius:50%;margin:6px 0 12px 0;" />
 
-![My Photo](./profile.jpg)
+# YOUR NAME
+**Cybersecurity & Backend Development**
 
-## 📫 Contact Me
+**Looking for:** Junior Security Engineer / Backend Developer roles in collaborative, learning-focused teams.  
+**Graduation:** MONTH YEAR  <!-- e.g., Dec 2025 -->
 
-    -   [GitHub](https://github.com/yourusername)
-    -   [LinkedIn](https://linkedin.com/in/yourusername)
-    -   [Email](mailto:your.email@example.com)
+## Highlights
+- Python, Go, TypeScript
+- AWS, Docker, Kubernetes, Terraform
+- Threat modeling, IAM, OWASP ASVS, SAST/DAST
 
-[View My Projects](projects.md)
+[See Projects](/projects/) · [View Resume](/resume/) · [Contact](/contact/)
+
+{% include footer-note.html %}

@@ -1,19 +1,28 @@
 ---
-layout: default
-title: Projects
+title: "Projects"
+layout: page
+permalink: /projects/
 ---
 
-# 🚀 My Projects
+{% include brand.html %}
 
-## Project 1: Cool App.
+## Secure File Storage System
+**Problem:** Sensitive files stored without encryption or consistent access controls.  
+**Solution:** Client-side encryption (KMS), RBAC with signed URLs, audit logging.  
+**Outcome:** 0 critical misconfigurations in 90 days; automated compliance export.
 
--   **Description:** A tool that solves X problem.
--   **Technologies:** Python, Flask, React.
--   [View on GitHub](https://github.com/yourusername/project1)
+<img src="/assets/img/dae-logo.png" alt="Project diagram placeholder" width="640" style="border-radius:12px;margin:8px 0;"/>
 
-## Project 2: Another App
+**Tech:** Go, AWS S3 + KMS, Terraform, OPA  
+**Links:** [Source](https://github.com/YOUR-USERNAME/secure-file-storage) · [Demo](#)
 
--   **Description:** A fun project that does Y.
--   [Live Demo](https://yourdemo.example.com)
+---
 
-[📄 View My Resume](resume.pdf)
+## API Hardening Program
+**Problem:** Inconsistent API security across services.  
+**Solution:** ASVS-aligned checklists, gateway policies (authn, rate limiting, schema validation), CI security gates.  
+**Outcome:** 70% fewer high-risk findings in two sprints.
+
+**Tech:** TypeScript, OWASP ASVS, GitHub Actions
+
+{% include footer-note.html %}
