@@ -1,29 +1,23 @@
 title: "YOUR NAME — Cybersecurity & Backend Developer"
 description: "Portfolio showcasing secure backend systems, automation, and case studies."
-url: "https://kakradetome.github.io" # set to your username site
-baseurl: "/Kay-s-3-Week-Dae-Projects" # "" if this is your root username.github.io repo
+url: "https://kakradetome.github.io"
+baseurl: "/Kay-s-3-Week-Dae-Projects"   # must match repo name exactly
 
-# Use Minima (built-in, stable)
 theme: minima
-
-# Ensure /about/ style links work
 permalink: pretty
 
-# Top navigation for Minima
 header_pages:
-    - index.md
-    - about.md
-    - projects.md
-    - resume.md
-    - contact.md
+  - index.md
+  - about.md
+  - projects.md
+  - resume.md
+  - contact.md
 
-# Optional, safe plugins for GitHub Pages
 plugins:
-    - jekyll-feed
-    - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Keep build clean
 exclude:
-    - README.md
-    - Gemfile
-    - Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
