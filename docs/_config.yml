@@ -1,17 +1,19 @@
-title: "Alex Rivera — Cybersecurity & Backend Developer"
+title: "YOUR NAME — Cybersecurity & Backend Developer"
 description: "Portfolio showcasing secure backend systems, automation, and case studies."
 url: "https://kakradetome.github.io"
-baseurl: "/Kay-s-3-Week-Dae-Projects"
+baseurl: "/Kay-s-3-Week-Dae-Projects" # must match repo name exactly
+
 theme: jekyll-theme-architect
 permalink: pretty
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+    - jekyll-seo-tag
+    - jekyll-feed
 
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - resume.md
-  - contact.md
+# Optional GitHub metadata shown by Architect; safe to keep
+show_downloads: false
+
+exclude:
+    - README.md
+    - Gemfile
+    - Gemfile.lock
