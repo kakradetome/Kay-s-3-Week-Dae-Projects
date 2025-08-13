@@ -1,21 +1,8 @@
 ---
 layout: default
-title: "About Me"
-permalink: /about/
+title: "About"
 ---
 
-{% include brand.html %}
-{% include nav.html %}
+# About
 
-I build secure, reliable backend services with **secure-by-default** principles.  
-My ideal team values mentorship, curiosity, and clear communication.
-
-## Career Aspirations
-- Role: **Security Engineer** or **Backend Developer**
-- Team: inclusive, collaborative, feedback‑friendly
-- Work: secure features, better CI/CD, developer tooling & automation
-
-## Interests
-Threat modeling, incident response, API security.
-
-{% include footer-note.html %}
+This is the About page. Replace this content with your own.
