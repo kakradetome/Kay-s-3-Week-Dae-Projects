@@ -2,17 +2,14 @@ title: "YOUR NAME — Cybersecurity & Backend Developer"
 description: "Portfolio showcasing secure backend systems, automation, and case studies."
 url: "https://kakradetome.github.io"
 baseurl: "/Kay-s-3-Week-Dae-Projects"
+
 theme: jekyll-theme-midnight
 permalink: pretty
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - resume.md
-  - contact.md
+
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-feed
+
 exclude:
   - README.md
   - Gemfile

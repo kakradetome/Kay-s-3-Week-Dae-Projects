@@ -1,8 +1,14 @@
 ---
-title: Contact
+layout: default
+title: "Contact"
+permalink: /contact/
 ---
 
-# Contact
+{% include brand.html %}
+{% include nav.html %}
 
-- Email: you@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: [you@example.com](mailto:you@example.com)  
+- LinkedIn: [linkedin.com/in/YOUR-HANDLE](https://linkedin.com/in/YOUR-HANDLE)  
+- GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+
+{% include footer-note.html %}
