@@ -1,0 +1,1 @@
+# Prompt: create pytest tests for is_even(number). Include: positive even, positive odd, zero, negative even.
