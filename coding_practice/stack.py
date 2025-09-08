@@ -1,6 +1,6 @@
 # stack.py
 # -----------------------------------------------------------------------------
-# Your task: implement a simple Stack using a Python list.
+# Your task: implement a simple Stack using a Python list!
 #
 # Functions to implement:
 #   1. push(value)    -> put value on top of the stack
