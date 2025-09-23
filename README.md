@@ -51,6 +51,7 @@ Explain the directory structure so others can understand the layout of your code
 
 Example:
 
+```text
 project-root/
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies (if applicable)
@@ -62,6 +63,7 @@ project-root/
 ├── tests/ # Unit and integration tests
 ├── scripts/ # Setup or automation scripts
 └── docs/ # Additional documentation
+```
 
 Modify this to reflect your actual structure.
 
