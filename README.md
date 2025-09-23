@@ -63,7 +63,7 @@ project-root/
 ├── scripts/ # Setup or automation scripts
 └── docs/ # Additional documentation
 
-Modify this to reflect your actual structure.
+Modify this to reflect your actual structure..
 
 ---
 
