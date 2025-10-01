@@ -3,7 +3,6 @@
 # Your task: implement a simple Stack using a Python list!!
 #
 # Functions to implement:
-
 #   1. push(value)    -> put value on top of the stack
 #   2. pop()          -> remove and return the top value, or None if empty
 #   3. peek()         -> return the top value without removing it, or None if empty
@@ -33,4 +32,3 @@ def is_empty():
 def size():
     # TODO: return how many items are in the stack
     # Write your code here
-
